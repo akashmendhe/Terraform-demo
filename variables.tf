@@ -1,4 +1,4 @@
 variable {
-  project_id = "lesson-120"
+  project_id = "spheric-camera-388212"
   region     = "us-central1"
 }
